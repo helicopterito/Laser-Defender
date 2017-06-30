@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c537eb8ba3da444b18cc375d189688b8
+timeCreated: 1497496818
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brick LED-7
+  fontNames:
+  - Brick LED-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
